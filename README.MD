@@ -30,7 +30,7 @@ After you download the dataset and pre-trained models you are interested in (for
 ```shell
 ./resource
 ├── checkpoints
-│   ├── dfuast
+│   ├── dfaust
 │   │   ├── dfaust_w_pf.pt
 │   │   └── ...
 │   ├── dt4d
