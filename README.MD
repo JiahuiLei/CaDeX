@@ -2,7 +2,7 @@
 
 ### CVPR2022 [Jiahui Lei](https://www.cis.upenn.edu/~leijh/) and [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/); [Project Page](https://www.cis.upenn.edu/~leijh/projects/cadex/)
 
-### CaDeX: Learning mayonical Deformation Coordinate Space for Dynamic Surface Representation via Neural Homeomorphism
+### CaDeX: Learning Canonical Deformation Coordinate Space for Dynamic Surface Representation via Neural Homeomorphism
 
 ![image](./assets/idea.png)
 
