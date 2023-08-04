@@ -30,3 +30,4 @@ h5py
 rtree
 black
 flake8
+protobuf==3.20.*
